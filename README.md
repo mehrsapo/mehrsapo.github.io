@@ -1,7 +1,9 @@
 # academic_profile
 
-Strongly based on [\[1\]][1], adapted to my particular needs. A report on the changes (or improvements) from [\[1\]][1] will follow soon. For a comfortable development environment for websites of this form see [\[1\]][1] also.
+The template is based on [\[1\]][1] and [\[2\]][2], adapted to my profile.
 
 [1]: https://github.com/pettni/academic_homepage
+[1]: https://poldap.github.io/#/
 
 [\[1\]][1]: Petter Nilsson's academic homepage repository on GitHub
+[\[2\]][2]: Pol del Aguila Pla's academic homepage repository on GitHub
